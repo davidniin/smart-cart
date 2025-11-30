@@ -1,0 +1,7 @@
+{
+  "name": "Carrito Inteligente",
+  "description": "Tu asistente de compras inteligente. Gestiona tu lista, analiza productos por foto, busca información actualizada y genera inspiración visual para tus comidas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
